@@ -14,9 +14,9 @@ The main goal for this analysis is to answer the Initial Research Questions that
 
 ## Data description
 
-The source of the data is [S&P 500 Stocks (daily updated)](https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?select=sp500_stocks.csv) dataset that was downloaded from online community platform for data scientists www.kaggle.com.
+The source of the data is [S&P 500 Stocks (daily updated)](https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?select=sp500_stocks.csv) dataset that was downloaded Kaggle.
 
-The dataset contains data from the time period 28/07/2014 – 26/07/2024
+The dataset contains data from the time period 28/07/2014 – 26/07/2024
 The dataset unites 3 subsets, each in separate csv files:
 1. **Companies subset**: contains details about S&P 500 companies, including symbol, name, sector, industry, market cap, revenue growth, and other financial metrics
 2. **Stocks subset**: contains daily stock prices for each company that included in S&P 500 index
@@ -24,5 +24,4 @@ The dataset unites 3 subsets, each in separate csv files:
 
 ## Documentation and Presentation
 Report: a detailed report covering data preprocessing, Exploratory data analysis and insights. Include visualizations and explanations.
-
-
+Downloaded dateset: unites 3 subsets, each in separate csv files
