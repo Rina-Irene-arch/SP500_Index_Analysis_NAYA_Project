@@ -1,5 +1,5 @@
 # Python EDA Final Project: S&P500 Index Analysis 
-In this project will be conducted comparative analysis of the S&P 500 index over the last 10 years (2014-2023) by using descriptive statistics and data visualization plots.
+In this [project](https://github.com/Rina-Irene-arch/SP500_Index_Analysis_NAYA_Project/blob/main/Naya_EDA_Project_SP500_Rina_Rafalski_J_Fin.ipynb) will be conducted comparative analysis of the S&P 500 index over the last 10 years (2014-2023) by using descriptive statistics and data visualization plots.
 The main goal for this analysis is to answer the Initial Research Questions that aimed to help long-term investors to make informed decisions.
 
 ## Initial Research Questions
@@ -14,7 +14,7 @@ The main goal for this analysis is to answer the Initial Research Questions that
 
 ## Data description
 
-The source of the data is [S&P 500 Stocks (daily updated)](https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?select=sp500_stocks.csv) dataset that was downloaded Kaggle.
+The source of the data is [S&P 500 Stocks (daily updated)](https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?select=sp500_stocks.csv) dataset that was downloaded from Kaggle.
 
 The dataset contains data from the time period 28/07/2014 – 26/07/2024
 The dataset unites 3 subsets, each in separate csv files:
@@ -23,5 +23,4 @@ The dataset unites 3 subsets, each in separate csv files:
 3. **Index subset**: Contains daily S&P 500 index
 
 ## Documentation and Presentation
-Report: a detailed report covering data preprocessing, Exploratory data analysis and insights. Include visualizations and explanations.
-Downloaded dateset: unites 3 subsets, each in separate csv files
+[Report](https://github.com/Rina-Irene-arch/SP500_Index_Analysis_NAYA_Project/blob/main/SP500_Index_Analysis_NAYA_Project.pdf): a detailed report covering data preprocessing, Exploratory data analysis and insights. Include visualizations and explanations.
