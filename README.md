@@ -23,4 +23,4 @@ The dataset unites 3 subsets, each in separate csv files:
 3. **Index subset**: Contains daily S&P 500 index
 
 ## Documentation and Presentation
-[Report](https://github.com/Rina-Irene-arch/SP500_Index_Analysis_NAYA_Project/blob/main/SP500_Index_Analysis_NAYA_Project.pdf): a detailed report covering data preprocessing, Exploratory data analysis and insights. Include visualizations and explanations.
+[Report](https://github.com/Rina-Irene-arch/SP500_Index_Analysis_NAYA_Project/blob/main/SP500_Index_Analysis_NAYA_Project.pdf): a detailed report covering data preprocessing, Exploratory data analysis and insights, visualizations and explanations.
